@@ -6,4 +6,4 @@ Specifically, I developed a Python code that allows you to efficiently 'read' as
 
 Medium post about it:
 
-Code file:
+Code file: auto_review_post.ipynb
